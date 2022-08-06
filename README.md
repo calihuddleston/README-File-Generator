@@ -1,40 +1,35 @@
-# test
+# README File Generator
+  [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
   ## Table of Contents
-  -[description] (#description)
-  -[installation] (#install)
-  -[usage] (#usage)
-  -[guidelines] (#guidelines)
-  -[test instructions] (#test)
-  -[licenses] (#license)
-  -[GitHub Username] (#github)
-  -[GitHub Profile] (#profile)
-  -[Contact Information] (#email)
+  - [Description] (#description)
+  - [Installation] (#install)
+  - [Usage] (#usage)
+  - [Guidelines] (#guidelines)
+  - [Test-Instructions] (#test)
+  - [Licenses] (#license)
+  - [Contact-Information] (#email)
 
-<<<<<<< HEAD
-  ##Description:
-  test
+  ## Description:
+  Create README files with ease using node.js command lines. Answer the prompts in the terminal and node will take care of the rest! Additionally, you have the option to select a license and the README file will display the badge and give a link to more information.
 
-  ##Installation:
-  test
+  ## Installation:
+  NA
 
-  ##Usage:
-  test
+  ## Usage:
+  Open terminal and run node index.js. Answer the prompts with your project and contact information.
 
-  ##Guidelines:
-  test
+  ## Guidelines:
+  NA
 
-  ##Test Instructions:
-  test
+  ## Test Instructions:
+  NA
 
-  ##Profile:
-  test
+  ## License:
+  Read more about The Unlicense here:
+  [The Unlicense](http://unlicense.org/)
 
-  ##Contact Information:
-  test
-  test
-  test
-=======
-# Screencastify: 
-https://drive.google.com/file/d/1iJoEbmAN9IW6-rWhT9rFwwBk0o1jBXv7/view
->>>>>>> 5faf78b07d829152a654b64e5e949a57207838ad
+  ## Contact Information:
+  GitHub Username: calihuddleston
+  GitHub Profile: https://www.github.com/calihuddleston
+  Email: calihuddleston@gmail.com
