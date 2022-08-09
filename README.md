@@ -2,13 +2,13 @@
   [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
   ## Table of Contents
-  - [Description] (#description)
-  - [Installation] (#install)
-  - [Usage] (#usage)
-  - [Guidelines] (#guidelines)
-  - [Test-Instructions] (#test)
-  - [Licenses] (#license)
-  - [Contact-Information] (#email)
+  - [Description](#description)
+  - [Installation](#install)
+  - [Usage](#usage)
+  - [Guidelines](#guidelines)
+  - [Test-Instructions](#test)
+  - [Licenses](#license)
+  - [Contact-Information](#email)
 
   ## Description:
   Create README files with ease using node.js command lines. Answer the prompts in the terminal and node will take care of the rest! Additionally, you have the option to select a license and the README file will display the badge and give a link to more information.
