@@ -4,9 +4,9 @@
 
 - [Description](#description)
 - [Installation](#install)
-- [Usage](#usage)
-- [Guidelines](#guidelines)
+- [Features](#features)
 - [Test-Instructions](#test)
+- [Screenshots](#screenshots)
 - [Technology Used](#techused)
 - [Contact-Information](#email)
 
@@ -17,22 +17,24 @@ Successful use of back-end technologies that provides a useful tool that is able
 
 ## Installation:
 
+Clone Repository:
 1. Open terminal.
-2. In upper corner of GitHub repo, click < Code > dropdown menu. 
-3. Copy the SSH link.
-4. In terminal, type `git clone` and paste the SSH link afterwards. 
-5. Hit enter. 
+2. In terminal, type or copy and paste: git clone git@github.com:calihuddleston/social-media.git
+3. Hit enter.
 
-** Repo should successfully be on your desktop or downloads as a directory folder.
+NPM Packages:
+- All NPM packages required for this application (Inquirer) are already listed as dependencies in the package.json file.
+- Ensure that Node.js is installed on your machine (you can check this by running node -v in the terminal). The `README-File-Generator` application will be invoked by entering `node index.js` in the command line. Node.js Download: https://nodejs.org/en/download/
+1. In the terminal, `cd` into the `README-File-Generator` directory.
+2. Run `npm i` or `npm install` to install dependency node-modules. 
 
-## Usage:
-![README](https://user-images.githubusercontent.com/102004484/217685851-0901b222-bcab-4c66-92ef-cbb0bab6f411.png)
+## Features:
 
-https://drive.google.com/file/d/1V9BdRahgMrBQLQLD0f58q3kkyHF0eTIZ/view
-
-## Guidelines:
-
-Use for projects requiring README files. This README file generator creates an easy and convenient way to make those daunting README files come to life!
+- This application allows a user to create README files using the command line in terminal.
+- Users are able to answer a series of questions about their project such as name, description, usage, installation, etc. 
+- Users can either type their answers or use up/down arrow keys and pressing enter after each question.
+- Once the user is finished answering the series of questions - the application will write a README.md file for them. 
+- Users then are able to access and copy/paste the file into their own project directory.
 
 ## Test Instructions:
 
@@ -48,6 +50,11 @@ Use for projects requiring README files. This README file generator creates an e
 10. In the file directory on the side, right click.
 11. Click `paste`
 12. Now you have a beautiful and easy made README file for your new/current project!
+
+## Screenshots:
+![README](https://user-images.githubusercontent.com/102004484/217685851-0901b222-bcab-4c66-92ef-cbb0bab6f411.png)
+
+https://drive.google.com/file/d/1V9BdRahgMrBQLQLD0f58q3kkyHF0eTIZ/view
 
 ## Technology Used:
 
