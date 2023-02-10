@@ -19,7 +19,7 @@ Successful use of back-end technologies that provides a useful tool that is able
 
 Clone Repository:
 1. Open terminal.
-2. In terminal, type or copy and paste: git clone git@github.com:calihuddleston/social-media.git
+2. In terminal, type or copy and paste: `git clone git@github.com:calihuddleston/README-File-Generator.git`
 3. Hit enter.
 
 NPM Packages:
